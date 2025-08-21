@@ -11,7 +11,7 @@ function App() {
         <div className="header-content">
           <div className="header-text">
             <h1>Sistema de Denúncias</h1>
-            <p>Vereador Eduardo Magoga</p>
+            <p>Vereador Hebert Ganem</p>
           </div>
           <div className="profile-photo">  
             <img src={perfilImg} alt="Foto de Perfil novo" />
